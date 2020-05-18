@@ -1,0 +1,3 @@
+/home/fazlur/catkin_ws/src/BuildMyWorld/build/CMakeFiles/rebuild_cache.dir
+/home/fazlur/catkin_ws/src/BuildMyWorld/build/CMakeFiles/edit_cache.dir
+/home/fazlur/catkin_ws/src/BuildMyWorld/build/CMakeFiles/message.dir
